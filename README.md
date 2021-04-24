@@ -8,3 +8,7 @@ True Type version of the classic glisp pixel BDF font. Based on the original des
 Expanded character set and kerning by me. Modified characters are depicted in blue, additions in green, romanian support in red.
 
 ![80129-3](https://user-images.githubusercontent.com/61617801/115949596-d947fa00-a4de-11eb-813b-d2a35056ae0b.png)
+
+---
+
+Very old stuff, saved here just to keep it alive.
